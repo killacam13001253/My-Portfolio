@@ -1,0 +1,20 @@
+
+h1 {
+    color: brown;
+}
+.a{
+    background:yellow;
+    display:flex;
+    justify-content: space-between;
+}
+.out{
+    display:flex;
+    justify-content: space-evenly;
+}
+.i{
+    display:flex;
+    justify-content: flex-end
+}
+* {
+    border: solid;
+}
